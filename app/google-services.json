@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "604462233721",
+    "project_id": "force-update-app",
+    "storage_bucket": "force-update-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604462233721:android:21252aeba1cd786564bca8",
+        "android_client_info": {
+          "package_name": "com.example.forceupdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604462233721-6fbif81cc08r55b65sjc1r3u3eu58170.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.forceupdate",
+            "certificate_hash": "c2b546f3786a8f485d0776edc0623ea2ee407950"
+          }
+        },
+        {
+          "client_id": "604462233721-783g53adpimr96nsu2u8csduui3053n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoKnn2BlHOy9oLG-ehF2hUPThTvjfff8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604462233721-783g53adpimr96nsu2u8csduui3053n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
